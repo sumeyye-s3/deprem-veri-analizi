@@ -1,0 +1,1 @@
+# deprem-veri-analizi
