@@ -25,3 +25,7 @@ deprem_haritasi.html dosyasında interaktif harita bulunmaktadır.
 ## Amaç
 
 Veri analizi ve veri görselleştirme becerilerini geliştirmek.
+
+## Deprem Haritası Görünümü
+
+![Deprem Haritası](harita.png)
